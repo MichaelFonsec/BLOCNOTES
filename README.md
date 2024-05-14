@@ -9,9 +9,8 @@ BlocNotes é uma plataforma versátil para criação de notas por meio de texto 
 ## Recursos Principais
 
 1. **Criação de Notas:** Crie notas facilmente digitando ou gravando áudio.
-2. **Sincronização em Tempo Real:** Suas notas são sincronizadas automaticamente em todos os seus dispositivos.
+2. **Interface Intuitiva:** Interface de usuário intuitiva e amigável para uma experiência de uso agradável.
 3. **Acesso em Qualquer Lugar:** Acesse suas notas em qualquer lugar, a qualquer momento, em dispositivos móveis ou desktop.
-4. **Interface Intuitiva:** Interface de usuário intuitiva e amigável para uma experiência de uso agradável.
 
 ---
 
