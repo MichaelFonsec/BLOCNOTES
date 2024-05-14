@@ -2,7 +2,7 @@
 
 BlocNotes é uma plataforma versátil para criação de notas por meio de texto e áudio.
 
-
+![BlocNotes Logo](https://raw.githubusercontent.com/MichaelFonsec/BLOCNOTES/main/ReactNotes/public/BlocNotes.png)
 
 ---
 
@@ -39,7 +39,3 @@ BlocNotes é uma plataforma versátil para criação de notas por meio de texto 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 ---
-
-## Licença
-
-Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).
