@@ -16,11 +16,10 @@ BlocNotes é uma plataforma versátil para criação de notas por meio de texto 
 
 ## Como Usar
 
-1. Faça login na sua conta BlocNotes ou crie uma nova conta.
-2. Crie uma nova nota clicando no botão "+" ou escolha entre digitar ou gravar áudio.
+1. Crie uma nova nota clicando em "Adicionar Nota" ou escolha entre digitar ou gravar áudio.
 3. Para digitar uma nota, simplesmente comece a escrever na caixa de texto fornecida.
 4. Para gravar áudio, clique no botão de gravação e comece a falar. Clique novamente para parar a gravação.
-5. Suas notas serão automaticamente salvas e sincronizadas em tempo real.
+5. Suas notas serão salvas
 
 ---
 
