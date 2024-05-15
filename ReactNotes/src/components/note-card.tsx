@@ -71,14 +71,14 @@ export function NoteCard({ nota, onNoteDeleted, onNoteEdited }: NoteCardProps) {
                   <button
                     type="button"
                     onClick={handleSave}
-                    className="w-full bg-lime-600 py-4 rounded-md text-center text-sm text-slate-300 outline-none font-medium group hover:bg-lime-700 focus:outline-none focus-visible:ring-lime-400"
+                    className="w-full  bg-lime-500 py-4  text-center  rounded-md  text-sm text-white outline-none font-medium group hover:bg-lime-600 focus:outline-none focus-visible:ring-lime-400"
                   >
                     Salvar Edição
                   </button>
                   <button
                     type="button"
                     onClick={() => setIsEditing(false)}
-                    className="flex items-center justify-center w-full bg-slate-800 py-4 text-white rounded-md text-sm shadow-md outline-none font-medium hover:bg-slate-600 focus:outline-none focus-visible:ring-slate-400"
+                    className="flex items-center justify-center w-full bg-slate-800 py-4  text-center  rounded-md  text-sm text-slate-300 outline-none font-medium group  hover:bg-slate-600 focus:outline-none focus-visible:ring-lime-400"
                   >
                     <Undo2 className="md:w-5 md:h-5 mr-2" />
                     <span className="text-red-400 group-hover:underline">
