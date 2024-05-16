@@ -49,16 +49,7 @@ export function NoteCard({ nota, onNoteDeleted, onNoteEdited }: NoteCardProps) {
         <span className="text-sm font-medium text-slate-300">
           {formatDistanceToNow(lastEditTime, { locale: ptBR, addSuffix: true })}
         </span>
-        {isEditing ? (
-          <textarea
-            className="text-sm leading-6 py-7 h-48 text-slate-400 bg-transparent outline-none resize-none overflow-y-auto scrollbar-thin scrollbar-thumb-gray-300 scrollbar-track-gray-100"
-            value={editedContent}
-            onChange={(e) => setEditedContent(e.target.value)}
-            style={{ scrollbarWidth: 'none' }}
-          />
-        ) : (
-          <p className="text-sm leading-6 text-slate-400">{nota.content}</p>
-        )}
+        <p className="text-sm leading-6 text-slate-400">{nota.content}</p>
         <div className="absolute bottom-0 left-0 right-0 h-1/2 bg-gradient-to-t from-black/60 to-black/0 pointer-events-none " />
       </Dialog.Trigger>
       <Dialog.Portal>
