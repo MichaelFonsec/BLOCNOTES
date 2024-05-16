@@ -72,7 +72,7 @@ export function App() {
           <input
             type="text"
             placeholder="Busque em suas Notas..."
-            className="w-full bg-transparent lg:text-3xl text-2xl font-semibold tracking-tight outline-none placeholder:text-slate-500"
+            className="w-full bg-transparent lg:text-3xl text-1xl font-semibold tracking-tight outline-none placeholder:text-slate-500"
             onChange={handleSearch}
           />
         </form>
