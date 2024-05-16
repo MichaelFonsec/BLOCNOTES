@@ -66,13 +66,13 @@ export function App() {
 
   return (
     <div className="mx-auto max-w-6xl my-12 space-y-6 px-5">
-      <div className="flex items-center justify-between">
-        <img src={logo} className="w-40 h-19" alt="logo" />
+      <div className="flex items-center md:justify-between">
+        <img src={logo} className="md:w-40 w-24" alt="logo" />
         <form className="flex-grow ">
           <input
             type="text"
             placeholder="Busque em suas Notas..."
-            className="w-full bg-transparent text-3xl font-semibold tracking-tight outline-none placeholder:text-slate-500"
+            className="w-full bg-transparent lg:text-3xl text-2xl font-semibold tracking-tight outline-none placeholder:text-slate-500"
             onChange={handleSearch}
           />
         </form>
